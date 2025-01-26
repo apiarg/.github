@@ -1,12 +1,14 @@
-## Hi there 👋
+## Hola 👋
 
-<!--
+### Introducción
 
-**Here are some ideas to get you started:**
+Bienvenidos a la organización APIARG. Somos un grupo dedicado a la creación y desarrollo de soluciones tecnológicas innovadoras.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Objetivo de la Organización
+
+Nuestro objetivo es fomentar la colaboración y el aprendizaje en el ámbito de la tecnología, proporcionando recursos y apoyo a nuestros miembros para que puedan desarrollar sus habilidades y alcanzar sus metas profesionales.
+
+### Documentación y Enlaces
+
+- [Documentación](URL_DE_DOCUMENTACION)
+- [Sitio Web](URL_DEL_SITIO_WEB)
