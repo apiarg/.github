@@ -1,5 +1,7 @@
 # Security Policy
 
+[Versión en Español](SECURITY_ES.md)
+
 ## Reporting a Vulnerability
 
 If you discover a security vulnerability within this project, please report it as soon as possible. We take all security vulnerabilities seriously and will address them promptly.

@@ -1,5 +1,7 @@
 # Contributing to the Project
 
+[Versión en Español](CONTRIBUTING_ES.md)
+
 Thank you for considering contributing to our project! We welcome contributions from the community and are grateful for your support.
 
 ## How to Contribute
@@ -7,11 +9,13 @@ Thank you for considering contributing to our project! We welcome contributions 
 1. **Fork the repository**: Click the "Fork" button at the top right corner of the repository page to create a copy of the repository in your GitHub account.
 
 2. **Clone the repository**: Clone the forked repository to your local machine using the following command:
+
    ```
    git clone https://github.com/your-username/repository-name.git
    ```
 
 3. **Create a new branch**: Create a new branch for your contribution using the following command:
+
    ```
    git checkout -b your-branch-name
    ```
@@ -19,11 +23,13 @@ Thank you for considering contributing to our project! We welcome contributions 
 4. **Make your changes**: Make the necessary changes to the codebase. Ensure that your changes adhere to the project's coding standards and guidelines.
 
 5. **Commit your changes**: Commit your changes with a descriptive commit message using the following command:
+
    ```
    git commit -m "Description of your changes"
    ```
 
 6. **Push your changes**: Push your changes to your forked repository using the following command:
+
    ```
    git push origin your-branch-name
    ```
