@@ -1,47 +1,47 @@
-# Instrucciones para Contribuir con GitHub Copilot
+# Instructions for Contributing with GitHub Copilot
 
-## Introducción
+## Introduction
 
-Bienvenidos a Argentina API. Somos una organización dedicada a la creación y desarrollo de API's de común interés para los ciudadanos de la República Argentina.
+*Welcome to Datos Argentina. We are an organization dedicated to the creation and development of data APIs of common interest to the citizens of the Republic of Argentina.*
 
-## Objetivo de la Organización
+## Organization's Objective
 
-Nuestro objetivo es fomentar la colaboración y el aprendizaje en el ámbito de la tecnología, proporcionando recursos y apoyo a nuestros miembros para que puedan desarrollar sus habilidades y alcanzar sus metas profesionales.
+Our objective is to foster collaboration and learning in the field of technology, providing resources and support to our members so they can develop their skills and achieve their professional goals.
 
-## Uso de GitHub Copilot
+## Using GitHub Copilot
 
-GitHub Copilot es una herramienta que te ayuda a escribir código más rápido y con mayor precisión. A continuación, se detallan los pasos para utilizar GitHub Copilot en este repositorio:
+GitHub Copilot is a tool that helps you write code faster and with greater accuracy. Below are the steps to use GitHub Copilot in this repository:
 
-1. **Instalación de GitHub Copilot**:
-   - Asegúrate de tener una suscripción activa a GitHub Copilot.
-   - Instala la extensión de GitHub Copilot en tu editor de código (Visual Studio Code, JetBrains, etc.).
+1. **Installing GitHub Copilot**:
+   - Ensure you have an active GitHub Copilot subscription.
+   - Install the GitHub Copilot extension in your code editor (Visual Studio Code, JetBrains, etc.).
 
-2. **Configuración del Repositorio**:
-   - Clona el repositorio en tu máquina local:
+2. **Repository Setup**:
+   - Clone the repository to your local machine:
 
      ```bash
-     git clone https://github.com/argentina-api/.github.git
+     git clone https://github.com/argendata/.github.git
      ```
 
-   - Copia los archivos necesarios a tu proyecto.
-   - Realiza las configuraciones necesarias en los archivos copiados.
+   - Copy the necessary files to your project.
+   - Make the necessary configurations in the copied files.
 
-3. **Uso de GitHub Copilot**:
-   - Abre el proyecto en tu editor de código con la extensión de GitHub Copilot instalada.
-   - Comienza a escribir código y GitHub Copilot te sugerirá auto-completados y fragmentos de código.
-   - Acepta las sugerencias que consideres útiles y ajusta el código según sea necesario.
+3. **Using GitHub Copilot**:
+   - Open the project in your code editor with the GitHub Copilot extension installed.
+   - Start writing code and GitHub Copilot will suggest auto-completions and code snippets.
+   - Accept the suggestions you find useful and adjust the code as necessary.
 
-## Guía de Contribución
+## Contribution Guide
 
-Si deseas contribuir a este repositorio, por favor sigue los siguientes pasos:
+If you wish to contribute to this repository, please follow these steps:
 
-1. Haz un fork del repositorio.
-2. Clona el repositorio bifurcado en tu máquina local.
-3. Crea una nueva rama para tu contribución.
-4. Realiza los cambios necesarios en el código.
-5. Confirma y sube tus cambios a tu repositorio bifurcado.
-6. Crea un pull request en el repositorio original.
+1. Fork the repository.
+2. Clone the forked repository to your local machine.
+3. Create a new branch for your contribution.
+4. Make the necessary changes to the code.
+5. Commit and push your changes to your forked repository.
+6. Create a pull request in the original repository.
 
-## Información de Licencia
+## License Information
 
-Este proyecto está licenciado bajo la Licencia Apache 2.0. Para más información, consulta el archivo LICENSE en el repositorio.
+This project is licensed under the Apache License 2.0. For more information, see the LICENSE file in the repository.
