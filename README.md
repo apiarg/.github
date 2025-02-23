@@ -11,8 +11,9 @@ Este repositorio contiene archivos de configuración y plantillas para la organi
 Para instalar y configurar los archivos de este repositorio, siga los siguientes pasos:
 
 1. Clone el repositorio en su máquina local:
-   ```
-   git clone https://github.com/apiarg/.github.git
+
+   ```bash
+   git clone https://github.com/argentina-api/.github.git
    ```
 
 2. Copie los archivos necesarios a su proyecto.
