@@ -2,7 +2,7 @@
 
 ### Introducción
 
-Bienvenidos a la organización APIARG. Somos un grupo dedicado a la creación y desarrollo de soluciones tecnológicas innovadoras.
+Bienvenidos a la organización APIARG. Somos una organizacion dedicada a la creación y desarrollo de API's de comun inteteres a los ciudadanos de la Republica Argentina.
 
 ### Objetivo de la Organización
 
