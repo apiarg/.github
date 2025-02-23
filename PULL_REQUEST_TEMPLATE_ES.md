@@ -31,7 +31,7 @@ Por favor, describa las pruebas que realizó para verificar sus cambios. Proporc
 - Herramientas:
 - SDK:
 
-## Lista de verificación:
+## Lista de verificación
 
 - [ ] Mi código sigue las pautas de estilo de este proyecto
 - [ ] He realizado una auto-revisión de mi código

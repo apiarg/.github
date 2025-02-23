@@ -34,10 +34,10 @@ Los administradores de la comunidad son responsables de aclarar y hacer cumplir 
 
 ## Atribución
 
-Este Código de Conducta es una adaptación del [Contributor Covenant][homepage], versión 2.0, disponible en https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+Este Código de Conducta es una adaptación del [Contributor Covenant][homepage], versión 2.0, disponible en <https://www.contributor-covenant.org/version/2/0/code_of_conduct.html>.
 
 Las Guías de Impacto en la Comunidad están inspiradas en la [escalera de aplicación del código de conducta de Mozilla](https://github.com/mozilla/diversity).
 
-Para respuestas a las preguntas más comunes sobre este código de conducta, consulte las FAQ en https://www.contributor-covenant.org/faq. Las traducciones están disponibles en https://www.contributor-covenant.org/translations.
+Para respuestas a las preguntas más comunes sobre este código de conducta, consulte las FAQ en <https://www.contributor-covenant.org/faq>. Las traducciones están disponibles en <https://www.contributor-covenant.org/translations>.
 
 [homepage]: https://www.contributor-covenant.org
