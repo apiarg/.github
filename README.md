@@ -1,6 +1,6 @@
 # .github
 
-repo interno de la org
+Repositorio Interno de la Organizacion
 
 ## Descripción del Repositorio
 
