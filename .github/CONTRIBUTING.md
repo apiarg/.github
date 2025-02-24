@@ -17,7 +17,6 @@ To get an overview of the project, read the [README](../README.md) file. Here ar
 - [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
 - [Collaborating with pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
 
-
 ## Getting started
 
 To navigate our codebase with confidence, see [the introduction to working in the docs repository](/contributing/README.md) :confetti_ball:. For more information on how we write our markdown files, see "[Using Markdown and Liquid in GitHub Docs](https://docs.github.com/en/contributing/writing-for-github-docs/using-markdown-and-liquid-in-github-docs)."
@@ -49,6 +48,7 @@ For more information about using a codespace for working on GitHub documentation
 #### Make changes locally
 
 1. Fork the repository.
+
 - Using GitHub Desktop:
   - [Getting started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/getting-started-with-github-desktop) will guide you through setting up Desktop.
   - Once Desktop is set up, you can use it to [fork the repo](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop)!
@@ -67,6 +67,7 @@ Commit the changes once you are happy with them. Don't forget to use the "[Self 
 ### Pull Request
 
 When you're finished with the changes, create a pull request, also known as a PR.
+
 - Fill the "Ready for review" template so that we can review your PR. This template helps reviewers understand your changes as well as the purpose of your pull request.
 - Don't forget to [link PR to issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) if you are solving one.
 - Enable the checkbox to [allow maintainer edits](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork) so the branch can be updated for a merge.
@@ -75,7 +76,7 @@ Once you submit your PR, a Docs team member will review your proposal. We may as
 - As you update your PR and apply changes, mark each conversation as [resolved](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#resolving-conversations).
 - If you run into any merge issues, checkout this [git tutorial](https://github.com/skills/resolve-merge-conflicts) to help you resolve merge conflicts and other issues.
 
-### Your PR is merged!
+### Your PR is merged
 
 Congratulations :tada::tada: The GitHub team thanks you :sparkles:.
 
