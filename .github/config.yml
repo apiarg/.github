@@ -1,11 +1,21 @@
 # Configuration for welcome - https://github.com/behaviorbot/welcome
 
 # Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
-# Comment to be posted to on first time issues
 newIssueWelcomeComment: >
-  Thanks for opening this issue. A GitHub docs team member should be by to give feedback soon. In the meantime, please check out the [contributing guidelines](https://docs.github.com/en/contributing).
+  ¡Gracias por abrir este issue! Un miembro del equipo de Datos Argentina lo revisará pronto.
+  Mientras tanto, por favor revisa nuestra [guía de contribución](../../CONTRIBUTING.md) y
+  asegúrate de que el issue incluya toda la información necesaria según la plantilla.
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
-# Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
-  Thanks for opening this pull request! A GitHub docs team member should be by to give feedback soon. In the meantime, please check out the [contributing guidelines](https://docs.github.com/en/contributing).
+  ¡Gracias por tu contribución! Un miembro del equipo de Datos Argentina revisará tu PR pronto.
+  Mientras tanto, por favor asegúrate de que:
+  - Has leído nuestra [guía de contribución](../../CONTRIBUTING.md)
+  - Los tests pasan correctamente
+  - La documentación está actualizada si es necesario
+  - El PR incluye una descripción clara de los cambios
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+firstPRMergeComment: >
+  ¡Felicitaciones por tu primera contribución a Datos Argentina! 🎉
+  Gracias por ayudarnos a mejorar el acceso a datos para los ciudadanos argentinos.
