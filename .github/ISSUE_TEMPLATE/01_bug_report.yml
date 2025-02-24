@@ -44,7 +44,7 @@ body:
     attributes:
       label: Screenshots
       description: If applicable, add screenshots to help explain your problem.
-      required: false
+      # required: false
 
   - type: dropdown
     id: os
