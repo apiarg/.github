@@ -2,6 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: 'Found a Bug "X"'
+type: 'Bug'
 labels: bug
 assignees: '@carlosferreyra'
 
