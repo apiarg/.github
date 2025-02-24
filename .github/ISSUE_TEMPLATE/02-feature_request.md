@@ -4,7 +4,7 @@ about: Suggest an idea for this project
 title: 'New Proposed Feature "X"'
 labels: [enhancement,documentation]
 type: 'Feature'
-assignees: '@carlosferreyra'
+assignees: 'carlosferreyra'
 
 ---
 
