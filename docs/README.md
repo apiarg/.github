@@ -48,4 +48,4 @@ Si desea contribuir a este repositorio, por favor siga los siguientes pasos:
 
 ## Información de Licencia
 
-Este proyecto está licenciado bajo la Licencia Apache 2.0. Para más información, consulte el archivo LICENSE en el repositorio.
+Este proyecto está licenciado bajo la [Licencia Apache 2.0](/docs/LICENSE). Para más información, consulte el archivo LICENSE en el repositorio.
