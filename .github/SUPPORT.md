@@ -5,8 +5,8 @@
 Si necesitas ayuda con cualquiera de nuestros proyectos, hay varias formas de obtener soporte:
 
 ### 1. Documentación
-- Consulta la documentación en la carpeta `/docs`
-- Revisa el archivo README.md del proyecto específico
+- Consulta la documentación en la carpeta [`/docs`](../docs/)
+- Revisa el archivo [README.md](../README.md) del proyecto específico
 
 ### 2. Issues de GitHub
 - Busca en los issues existentes por si tu pregunta ya ha sido respondida
