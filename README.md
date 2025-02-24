@@ -13,7 +13,7 @@ Para instalar y configurar los archivos de este repositorio, siga los siguientes
 1. Clone el repositorio en su máquina local:
 
    ```bash
-   git clone https://github.com/argentina-api/.github.git
+   git clone https://github.com/argendata/.github.git
    ```
 
 2. Copie los archivos necesarios a su proyecto.
