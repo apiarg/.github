@@ -5,7 +5,8 @@ title: 'Found a Bug "X"'
 type: 'Bug'
 labels: bug
 assignees: 'carlosferreyra'
-
+project: 'None'
+milestone: 'None'
 ---
 
 **Describe the bug**
