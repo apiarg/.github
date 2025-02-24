@@ -6,3 +6,9 @@ contact_links:
   - name: GitHub Security Bug Bounty
     url: https://bounty.github.com/
     about: Please report security vulnerabilities here.
+  - name: GitHub Status
+    url: https://www.githubstatus.com/
+    about: Please check here for service status updates.
+  - name: GitHub Support
+    url: https://support.github.com/
+    about: Please contact GitHub Support directly.
